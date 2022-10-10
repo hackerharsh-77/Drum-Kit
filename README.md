@@ -1,2 +1,2 @@
 # Drum-Kit
-create your beat using this drum kit
+Create your beat using this drum kit
